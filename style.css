@@ -1,0 +1,14 @@
+body{
+    background-color:hsla(30,50%,60%,0.5);
+    margin:50px;
+}
+
+p{
+    color:black;
+    padding:30px;
+}
+
+h1{
+    color: rgb(255, 238, 0);
+    background: royalblue;border:sienna 5px solid;
+}

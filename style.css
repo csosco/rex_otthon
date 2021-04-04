@@ -17,6 +17,7 @@ body{
     color:black;
 }
 
+
 table,tr,td{
     border: 2px solid black;
     border-collapse: collapse;
@@ -47,3 +48,6 @@ h1{
     background: royalblue;border:sienna 5px solid;
 }
 
+ol{
+    color:black;
+}

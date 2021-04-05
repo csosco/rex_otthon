@@ -38,7 +38,7 @@ th{
     background-color: white;
 }
 
-p{
+.p{
     color:wheat;
     padding:30px;
 }
@@ -50,4 +50,11 @@ h1{
 
 ol{
     color:black;
+}
+
+.class{
+    color:green;
+    padding:10px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
 }
